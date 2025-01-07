@@ -1,3 +1,4 @@
+#pragma once
 #include "Base.h"
 
 template <class T1, class T2>

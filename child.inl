@@ -1,3 +1,4 @@
+#pragma once
 #include "child.h"
 
 template <class T1, class T2, class T3, class T4>
